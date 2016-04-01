@@ -1,4 +1,7 @@
-﻿
-AvalonDockMVVM is a simple example Wpf Application for using AvalonDock 2.0 with MVVM Databinding.
+AvalonDockMVVM-Light is a simple example Wpf Application using AvalonDock 2.0 with MVVM Databindings and 
+integrating it with MVVMLight and SimpleIoc. This is a fork of the original AvalonDockMVVM created by Martin Kramer.
 
+Written by Daniel E. <aggietech@hotmail.com> 
+
+AvalonDockMVVM is a simple example Wpf Application for using AvalonDock 2.0 with MVVM Databinding.
 Written by martin kramer <martin.kramer@lostindetails.com>
